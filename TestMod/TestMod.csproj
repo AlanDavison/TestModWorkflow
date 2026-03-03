@@ -3,10 +3,10 @@
 	<PropertyGroup>
 		<Name>Test Mod</Name>
 		<Description>Test mod</Description>
-		<Authors>spacechase0</Authors>
+		<Authors>DecidedlyHuman</Authors>
 		<Version>1.0.1</Version>
-		<UniqueId>spacechase0.TestMod</UniqueId>
-		<UpdateKeys>Nexus:21216</UpdateKeys>
+		<UniqueId>DecidedlyHuman.TestMod</UniqueId>
+		<UpdateKeys>Nexus:43135</UpdateKeys>
 	  
 		<TargetFramework>net6.0</TargetFramework>
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
