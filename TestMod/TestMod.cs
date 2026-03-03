@@ -6,7 +6,7 @@ namespace TestMod
     {
         public override void Entry(IModHelper helper)
         {
-            Monitor.Log("Meow!", LogLevel.Info);
+            Monitor.Log("Meow is copyrighted Casey, 2026. Not meow.", LogLevel.Info);
         }
     }
 }
